@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A serene, modern task manager with local Room persistence, device sync, bento productivity views, and focus mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
